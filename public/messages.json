@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "author": "apple",
+      "name": "Morris John",
+      "photo": "https://randomuser.me/api/portraits/women/19.jpg",
+      "sentMessage": [],
+      "message": ["Hello world! This is a long message that will hopefully get wrapped by our message bubble component! We will see how well it works."]
+    },
+    {
+      "id": 2,
+      "author": "orange",
+      "name": "Albert Morris",
+      "photo": "https://randomuser.me/api/portraits/women/20.jpg",
+      "sentMessage": [],
+      "message": ["It looks like it wraps exactly as it is supposed to. Lets see what a reply looks like!"]
+    },
+    {
+      "id": 3,
+      "author": "orange",
+      "name": "Joy Morris",
+      "photo": "https://randomuser.me/api/portraits/women/40.jpg",
+      "sentMessage": [],
+      "message":["We will see how well it works."]
+    },
+    {
+      "id": 4,
+      "author": "apple",
+      "name": "Rachel Morris",
+      "photo": "https://randomuser.me/api/portraits/women/50.jpg",
+      "sentMessage": [],
+      "message": ["It looks like it wraps exactly as it is supposed to. Lets see what a reply looks like!"]
+    },
+    {
+      "id": 5,
+      "author": "apple",
+      "name": "Calvin Harris",
+      "photo": "https://randomuser.me/api/portraits/women/70.jpg",
+      "sentMessage": [],
+      "message": ["Hello world! This is a long message that will hopefully get wrapped by our message bubble component! We will see how well it works."]
+    },
+    {
+      "id": 6,
+      "author": "apple",
+      "name": "Elise Sander",
+      "photo": "https://randomuser.me/api/portraits/women/21.jpg",
+      "sentMessage": [],
+      "message": ["It looks like it wraps exactly as it is supposed to. Lets see what a reply looks like!"]
+    },
+    {
+      "id": 7,
+      "author": "orange",
+      "name": "Imogen Walker",
+      "photo": "https://randomuser.me/api/portraits/women/33.jpg",
+      "sentMessage": [],
+      "message": ["Hello world! This is a long message that will hopefully get wrapped by our message bubble component! We will see how well it works."]
+    },
+    {
+      "id": 8,
+      "author": "orange",
+      "name": "Heather Cooper",
+      "photo": "https://randomuser.me/api/portraits/women/23.jpg",
+      "sentMessage": [],
+      "message":[ "It looks like it wraps exactly as it is supposed to. Lets see what a reply looks like!"]
+    }
+  ]
+}
